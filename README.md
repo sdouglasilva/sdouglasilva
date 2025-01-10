@@ -8,11 +8,22 @@
   </a>
 </div>
 
- <h2>Sobre mim</h2> 
 
+
+
+
+
+####
+ //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ <h2>Sobre mim</h2>
+
+
+<div style ="width: 100vw; heigth: 100vh";>
+  <button>clique em mim</button><div/>
 Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e empreendedorismo.
 Sou desenvolvedor FullStack e Monitor acadêmico de uma escola da indústria criativa.
 
+<h1>Porque estou aqui ?</h1>
 Minha meta é desenvolver soluções que possam agregar a sociedade de maneira em geral.
 Pretendo atuar não só no livre mercado, mas também levar acessibilidade e conhecimento para pessoas que se encontram em situação de vulnerabilidade social.
 Acredito que a tecnologia pode mudar a realidade de muitos.
@@ -22,7 +33,7 @@ Acredito que a tecnologia pode mudar a realidade de muitos.
   <img src="https://streak-stats.demolab.com?user=sdouglasilva&locale=pt-br&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=0&date_format=j/n%5B/Y%5D&order=3" height="200" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=sdouglasilva&theme=kimbie_dark&column=3&row=1&margin-w=100&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sdouglasilva&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false" height="350" alt="activity-graph graph"  />
-</div>
+</div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75A1A&background=363636&width=435&lines=Seja+bem+vindo+ao+meu+GitHub.;Aqui+temos+caf%C3%A9+;C%C3%B3digo+01010101010101;Disciplina" alt="Typing SVG" /></a>
 
 ###
 <h2>Redes Sociais</h2>
@@ -39,7 +50,9 @@ https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient
 
 </div>
 
-<h2>Habilidades</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Habilidades&textBg=true&animation=fadeIn&rotate=10&fontAlign=23"/>
+
+
 
 
 
