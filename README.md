@@ -38,13 +38,7 @@ Acredito que a tecnologia pode mudar a realidade de muitos.
 
 ###
 
-<div style="display: flex">
-<br>
 
-[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/silvadouglasernesto/)
-
-
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Habilidades&textBg=true&animation=fadeIn&rotate=0&fontAlign=24&fontColor=ffffff&fontAlignY=46&stroke=952F4C&strokeWidth=2"/>
 
@@ -159,5 +153,11 @@ Acredito que a tecnologia pode mudar a realidade de muitos.
 <br>
 <a href="https://imgflip.com/i/9g7gbm"><img src="https://i.imgflip.com/9g7gbm.jpg" title="made at imgflip.com"/></a><div><a href="https://douglas-ernesto-silva-whh3htf.gamma.site/">Clique aqui para saber mais!</a>
 <a href="https://douglas-ernesto-silva-whh3htf.gamma.site/"></a></div>
+<div style="display: flex">
+<br>
 
+[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/silvadouglasernesto/)
+
+
+</div>
 
