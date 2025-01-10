@@ -147,27 +147,22 @@ https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient
 
 
 
-![HTML](https://img.shields.io/badge/html5-192436?style=for-the-badge&logo=html5&logoColor=orange).
-![CSS](https://img.jjjjp0tyuó00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000009.io/badge/css3-192436?style=for-the-badge&logo=css3).
-![React](https://img.shields.io/badge/react-192436?style=for-the-badge&logo=react).
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-192436?style=for-the-badge&logo=javascript).
-![VSCODE](https://img.shields.io/badge/vscode-192436?style=for-the-badge&logo=visualstudiocode).
-![GIT](https://img.shields.io/badge/Git-192436?style=for-the-badge&logo=git).
-![GITHUB](https://img.shields.io/badge/Github-192436?style=for-the-badge&logo=github).
-![MYSQL](https://img.shields.io/badge/Mysql-192436?style=for-the-badge&logo=mysql&logoColor=6E99F5).
+![HTML](https://img.shields.io/badge/html5-192436?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS](https://img.shields.io/badge/css3-192436?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/react-192436?style=for-the-badge&logo=react)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-192436?style=for-the-badge&logo=javascript)
+![VSCODE](https://img.shields.io/badge/vscode-192436?style=for-the-badge&logo=visualstudiocode)
+![GIT](https://img.shields.io/badge/Git-192436?style=for-the-badge&logo=git)
+![GITHUB](https://img.shields.io/badge/Github-192436?style=for-the-badge&logo=github)
+![MYSQL](https://img.shields.io/badge/Mysql-192436?style=for-the-badge&logo=mysql&logoColor=6E99F5)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
  
-<h2>Sistema operacional</h2>
-<br>
-
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 <h2>Conecte-se comigo</h2>
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sdouglasilva/)
 
 
 
