@@ -37,11 +37,6 @@ Acredito que a tecnologia pode mudar a realidade de muitos.
 </a>
 
 ###
-<h2>Redes Sociais</h2>
-https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient
-
-
-
 
 <div style="display: flex">
 <br>
@@ -162,26 +157,7 @@ https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient
 
 <h2>Conecte-se comigo</h2>
 <br>
+<a href="https://imgflip.com/i/9g7gbm"><img src="https://i.imgflip.com/9g7gbm.jpg" title="made at imgflip.com"/></a><div><a href="https://douglas-ernesto-silva-whh3htf.gamma.site/">Clique aqui para saber mais!</a>
+<a href="https://douglas-ernesto-silva-whh3htf.gamma.site/"></a></div>
 
-
-
-
-
-
-
-
-
-<div>
-<p style="color: #fff; font-size: 25px; font-weight: 500">Desenvolvedor FullStack💻</p>
-</div>
-
-<div>
-<p style="color: #fff; font-size: 30px; font-weight: 500">Tecnologias 🚀</p>
-</div>
-
-
-
-<div>
-<p style="color: #fff; font-size: 30px; font-weight: 500">Ferramentas🔧</p>
-</div>
 
