@@ -19,7 +19,6 @@
 
 
 <div style ="width: 100vw; heigth: 100vh";>
-  <button>clique em mim</button><div/>
 Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e empreendedorismo.
 Sou desenvolvedor FullStack e Monitor acadêmico de uma escola da indústria criativa.
 
